@@ -1,11 +1,11 @@
-### To be a devops engineer✨
-## [ ENG 🇺🇸 ]
+## To be a devops engineer✨
+### [ ENG 🇺🇸 ]
 - ⚠️ This github is my 2nd repo (sub-account) for documenting writings casually
 - ⚠️ Casual & Irragular repos (be better not to look for high quality writings)
 - 👩🏻‍💻 Currently working on Backend Developer & Devops
 - 💡 Recently highly interested in MSA & DDD
 
-## [ KOR 🇰🇷 ]
+### [ KOR 🇰🇷 ]
 - ⚠️ 2번째 Github 계정으로, 부담없이 글을 기록학 위한 부계정 입니다.  
 - ⚠️ 생각없이 편하게 적는 & 비정기적인 저장소 (질 좋은 글은 기대하지 않는편이 좋아요)
 - 👩🏻‍💻 백엔드 개발자 & 데브옵스로 근무중
