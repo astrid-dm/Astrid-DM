@@ -1,4 +1,8 @@
 ### To be a devops engineer✨
+- ⚠️ This github is my 2nd repo (sub-account) for documenting notion casually
+- ⚠️ Casual & Irragular repos (plz don't look for high quality writings)
+- 👩🏻‍💻 Currently working on Backend Developer & Devops
+- 💡 Recently interested in MSA & DDD
 
 <!--
 **Astrid-DM/Astrid-DM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
