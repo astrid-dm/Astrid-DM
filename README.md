@@ -1,6 +1,6 @@
 ## To be a devops engineer✨
 ### [ ENG 🇺🇸 ]
-- ⚠️ This github is my 2nd repo (a secondary account) for documenting writings casually
+- ⚠️ This github is my secondary account for documenting writings casually
 - ⚠️ Casual & Irragular repos (be better not to look for high quality writings)
 - 👩🏻‍💻 Currently working on Backend Developer & Devops
 - 💡 Recently highly interested in MSA & DDD
