@@ -2,8 +2,8 @@
 ### [ ENG 🇺🇸 ]
 - ⚠️ This github is my secondary account for documenting writings casually
 - ⚠️ Casual & Irragular repos (be better not to look for high quality writings)
-- 👩🏻‍💻 Currently working on Backend Developer & Devops
-- 💡 Recently highly interested in MSA & DDD
+- 👩🏻‍💻 ? developer (cannot decide)
+- 💡 I've found out a target, and following it now
 
 ### [ KOR 🇰🇷 ]
 - ⚠️ 2번째 Github 계정으로, 부담없이 글을 기록하기 위한 부계정 입니다.  
