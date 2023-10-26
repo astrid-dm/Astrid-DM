@@ -1,13 +1,15 @@
 ## To be a devops engineer✨
 ### [ ENG 🇺🇸 ]
 - ⚠️ This github is my secondary account for documenting writings casually
+- 😄 Github with miscellaneous things to read when I want to take a break while working
 - ⚠️ Casual & Irragular repos (be better not to look for high quality writings)
 - 👩🏻‍💻 ? developer (cannot decide)
 - 💡 I've found out a target, and following it now
 
 ### [ KOR 🇰🇷 ]
-- ⚠️ 2번째 Github 계정으로, 부담없이 글을 기록하기 위한 부계정 입니다.  
-- ⚠️ 생각없이 편하게 적는 & 비정기적인 저장소 (질 좋은 글은 기대하지 않는편이 좋아요)
+- ⚠️ 2번째 Github 계정으로, 부담없이 글을 기록하기 위한 부계정
+- 😄 일하면서 쉬고싶을때 짬짬이 보려고 만든 잡동사니 Github
+- ⚠️ 생각없이 편하게 적는 & 비정기적인 저장소 (질 좋은 글은 기대하지 않는편이 좋음)
 - 👩🏻‍💻 ? 개발자
 - 💡 새로운 목표 도전중
 
