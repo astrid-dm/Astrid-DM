@@ -1,4 +1,4 @@
-## To be a devops engineer✨
+## To be a ? engineer✨
 ### [ ENG 🇺🇸 ]
 - ⚠️ This github is my secondary account for documenting writings casually
 - 😄 Github with miscellaneous things to read when I want to take a break while working
